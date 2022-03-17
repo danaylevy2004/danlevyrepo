@@ -25,6 +25,8 @@ Beneficial and Harmful Effects
 - Harms: Very reliant on WWW, dopamine feedback loops, sleep deprivation, depression, anxiety, impulsivity
 - Microtransactions: Example of how some computing innovations can have a harmful impact on society, the economy, or culture
 
+
+
 ## 5.2
 - Internet access varies between socioeconomic, geographic, and demographic characteristics, as well as between countries
 - The digital divide refers to differing access to computing devices and the Internet, based on socioeconomic, graphic, or demographic characteristics
