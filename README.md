@@ -61,3 +61,14 @@ Beneficial and Harmful Effects
   - Enhancing or intentionally excluding?
   - Intentionally harmful or hateful?
   - Receiving feedback from a wide variety of people?
+
+## 5.4
+- Public Data Sets: Examples include Kaggle, Google Public Datasets, Data.gov, and local government data sets
+- Distributed Computing
+  - Study of computer systems that communicate amongst each other
+Examples: Folding@Home (Stanford) and BOINC (UCB)
+Science has been affected using distributed and citizen science
+Citizen science is research conducted by distributed individuals
+Human capabilities can be enhanced via computing
+Crowdsourcing  is where individuals or organizations obtain goods and services
+EX: Spotify, Crowdfunding, Blockchain
