@@ -34,3 +34,30 @@ Beneficial and Harmful Effects
 - Computers are not that common in rural areas, only a small number of websites could be available, the  Internet is used to protect and advocate the government, and there is a high level of surveillance on the internet to protect the government
 - Practice Question 1: C, Correct, because providing computers can provide equity
 
+## 5.3
+- Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
+- Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
+- Biases can be embedded at all levels of software development
+
+
+- Explicit data for Netflix::
+  - Thumbs
+  - Name, address
+  - Implicit Data:
+  - When you watch
+  - What you binged
+  - Style of show frequently selected
+  - Bias
+  - Subscriptions
+
+- Loan Companies
+  - Creating software to assist loan officers
+  - Find trends in successful loans
+  - Reject those who don't fit trends for age, gender, or race/ethnicity 
+
+- All software can be biased towards a demographic
+
+- Questions to ask about bias:
+  - Enhancing or intentionally excluding?
+  - Intentionally harmful or hateful?
+  - Receiving feedback from a wide variety of people?
