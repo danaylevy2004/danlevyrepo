@@ -1,5 +1,13 @@
 # Daniel Levy Data Structures #
 
+## Time Boxes: ##
+| Week | Assignment Title | Canvas Assignment |
+| ---- | ---------------- | ----------------- |
+| Week 0 | Plans, Teams, and Jobs | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2043640) |
+| Week 1 | Lists and Loops | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2057997) |
+| Week 2 | Classy Functions | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2062669) |
+| Week 3 | Algorithmic Final | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2077246) |
+
 ## Review Tickets: ##
 ### Week 0: ###
 [Week 0 Plans, Team, Jobs Individual Review Ticket - Daniel Levy](https://github.com/danaylevy2004/danlevyrepo/issues/1)
