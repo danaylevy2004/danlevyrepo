@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-## 5.1
+## 5.1 Beneficial and Harmful Effects
 - People create computing innovations
 - The way people complete tasks often changes to incorporate new computing innovations
 - Not every effect of a computing innovation is anticipated in advance
@@ -18,7 +18,7 @@ Beneficial and Harmful Effects
 - Harms: Very reliant on WWW, dopamine feedback loops, sleep deprivation, depression, anxiety, impulsivity
 - Microtransactions: Example of how some computing innovations can have a harmful impact on society, the economy, or culture
 
-## 5.2
+## 5.2 Digital Divide
 - Internet access varies between socioeconomic, geographic, and demographic characteristics, as well as between countries
 - The digital divide refers to differing access to computing devices and the Internet, based on socioeconomic, graphic, or demographic characteristics
 - The digital divide can affect both groups and individuals
@@ -27,11 +27,10 @@ Beneficial and Harmful Effects
 - Computers are not that common in rural areas, only a small number of websites could be available, the  Internet is used to protect and advocate the government, and there is a high level of surveillance on the internet to protect the government
 - Practice Question 1: C, Correct, because providing computers can provide equity
 
-## 5.3
+## 5.3 Computing Bias
 - Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
 - Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
 - Biases can be embedded at all levels of software development
-
 
 - Explicit data for Netflix::
   - Thumbs
@@ -55,7 +54,7 @@ Beneficial and Harmful Effects
   - Intentionally harmful or hateful?
   - Receiving feedback from a wide variety of people?
 
-## 5.4
+## 5.4 Crowdsourcing
 - Public Data Sets: Examples include Kaggle, Google Public Datasets, Data.gov, and local government data sets
 - Distributed Computing
   - Study of computer systems that communicate amongst each other
@@ -66,7 +65,7 @@ Beneficial and Harmful Effects
   - Crowdsourcing  is where individuals or organizations obtain goods and services
   - EX: Spotify, Crowdfunding, Blockchain
 
-## 5.5
+## 5.5 Legal and Ethical Concerns
 - Intellectual Property is a work or invention that is the result of creativity to which one has rights
 
 - Copyright
@@ -77,7 +76,7 @@ Beneficial and Harmful Effects
    - Open Source/OpenAccess are programs made freely available for anyone to use and may be redistributed and modified
    - Legal and Ethical Concerns are mainly taking someone else’s intellectual property
 
-## 5.6
+## 5.6 Safe Computing
 - Personally Identifiable Information
   - Personally Identifiable Information; Information Specific to an individual
   - Can be used by people to steal someone else’s identity
