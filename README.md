@@ -1,5 +1,9 @@
 # Daniel Levy Data Structures #
 
+## Important Pages ##
+[Individual Repository](https://poway.instructure.com/courses/112335/assignments/2043640)
+[Team Repository](https://poway.instructure.com/courses/112335/assignments/2043640)
+
 ## Time Boxes: ##
 | Week | Assignment Title | Canvas Assignment |
 | ---- | ---------------- | ----------------- |
