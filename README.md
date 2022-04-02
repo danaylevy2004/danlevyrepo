@@ -1,8 +1,8 @@
 # Daniel Levy Data Structures #
 
 ## Important Pages ##
-* [Individual Repository](https://poway.instructure.com/courses/112335/assignments/2043640)
-* [Team Repository](https://poway.instructure.com/courses/112335/assignments/2043640)
+* [Individual Repository](https://github.com/danaylevy2004/danlevyrepo)
+* [Team Repository](https://github.com/danaylevy2004/danlevyrepo)
 * [Jekyll](https://danaylevy2004.github.io/danlevyrepo/)
 
 ## Time Boxes: ##
