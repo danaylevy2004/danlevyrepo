@@ -5,7 +5,7 @@
 * [Team Repository](https://github.com/danaylevy2004/danlevyrepo)
 * [Jekyll](https://danaylevy2004.github.io/danlevyrepo/)
 
-## Time Boxes: ##
+## Time Box: ##
 | Week | Assignment Title | Canvas Assignment |
 | ---- | ---------------- | ----------------- |
 | Week 0 | Plans, Teams, and Jobs | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2043640) |
