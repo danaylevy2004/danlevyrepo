@@ -8,6 +8,7 @@ import os
 # file imports
 import Src.Week0.matrix as matrix
 import Src.Week0.swap as swap
+import Src.Week0.boat as boat
 import Src.Week0.christmastree as christmastree
 import Src.Week1.fibonacci as fibonacci
 import Src.Week1.tpt1 as tpt1
@@ -40,6 +41,7 @@ daniel = """
 
 pattern_sub_menu = [
     ["Christmas Tree", christmastree.options],
+    ["Boat", boat.run]
 ]
 
 math_sub_menu = [
