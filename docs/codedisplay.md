@@ -1,7 +1,6 @@
 ## Code Display
 ### Week 0
-```import os
-
+```
 # file imports
 import Src.Week0.matrix as matrix
 import Src.Week0.swap as swap
