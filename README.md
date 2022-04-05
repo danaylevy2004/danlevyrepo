@@ -14,3 +14,6 @@
 
 ### Week 2: ###
 [Week 2 Classy Functions Individual Review Ticket - Daniel Levy](https://github.com/danaylevy2004/danlevyrepo/issues/3)
+
+## Commits: ##
+[Daniel Commits](https://github.com/danaylevy2004/danlevyrepo/graphs/contributors)
