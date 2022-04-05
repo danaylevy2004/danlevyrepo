@@ -123,7 +123,7 @@ def buildMenu(banner, options):
         try:
             # try as function
             try:
-                os.system('clear')
+                os.system()
             except:
                 os.system('cls')
             action = prompts.get(choice)[1]
