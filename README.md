@@ -19,7 +19,7 @@
 [Week 3 Algorithmic Final Individual Review Ticket - Daniel Levy](https://github.com/danaylevy2004/danlevyrepo/issues/4)
 
 ### Week 4 and 5: ###
-[Week 4 Accounts and Logins Individual Review Ticket - Daniel Levy](https://github.com/danaylevy2004/danlevyrepo/issues/5)
+[Week 4 and 5 Accounts and Logins Individual Review Ticket - Daniel Levy](https://github.com/danaylevy2004/danlevyrepo/issues/5)
 
 ## Commits: ##
 [Daniel Commits](https://github.com/danaylevy2004/danlevyrepo/graphs/contributors)
