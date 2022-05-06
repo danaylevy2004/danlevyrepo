@@ -25,10 +25,10 @@
 [Week 6 Create Task and Quizzes 1 and 2](https://github.com/danaylevy2004/danlevyrepo/issues/6)
 
 ### Week 6/7: ###
-[Week 6/7 Quiz 3:](https://github.com/danaylevy2004/danlevyrepo/issues/7)
+[Week 6/7 Quiz 3](https://github.com/danaylevy2004/danlevyrepo/issues/7)
 
 ### Week 7: ### 
-[Week 7 Quiz 5:](https://github.com/danaylevy2004/danlevyrepo/issues/8)
+[Week 7 Quiz 5](https://github.com/danaylevy2004/danlevyrepo/issues/8)
 
 ## Commits: ##
 [Daniel Commits](https://github.com/danaylevy2004/danlevyrepo/graphs/contributors)
